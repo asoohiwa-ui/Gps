@@ -1,0 +1,6 @@
+{
+  "name": "Map Area Calc",
+  "description": "An interactively controlled coordinate area and perimeter calculator utilizing Google Maps and storing saved projects in local database history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
